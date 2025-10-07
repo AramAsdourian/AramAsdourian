@@ -17,8 +17,7 @@
   - [Pokedex](https://github.com/AramAsdourian/Pokedex.git)
   - [Jukebox](https://github.com/AramAsdourian/Jukebox.git)
   
-- <b>Processing</b>
-  - [placeholder]()
+
 
 <h2> Reach me at</h2>
 <b>aca5571@psu.edu</b>
