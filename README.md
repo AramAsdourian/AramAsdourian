@@ -14,8 +14,8 @@
   - [placeholder]()
     
 - <b>Python</b>
-  - [pokedex](https://github.com/AramAsdourian/Pokedex.git)
-  - [placeholder]()
+  - [Pokedex](https://github.com/AramAsdourian/Pokedex.git)
+  - [Jukebox](https://github.com/AramAsdourian/Jukebox.git)
   
 - <b>Processing</b>
   - [placeholder]()
