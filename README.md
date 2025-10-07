@@ -4,7 +4,7 @@
   
   - <b>experience with Python and C++</b>
   
-  - <b>some time also spent with Processing</b>
+  - <b>some time also spent with R and Processing</b>
   
   - <b>currently taking class in SQL and PHP</b>
     
