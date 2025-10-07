@@ -18,7 +18,7 @@
 - <b>Python</b>
   - [Pokedex](https://github.com/AramAsdourian/Pokedex.git)
   - [Jukebox](https://github.com/AramAsdourian/Jukebox.git)
-  - [Decoder](https://github.com/AramAsdourian/Decoder.git)
+  - [Caesar decoder](https://github.com/AramAsdourian/Decoder.git)
   
 
 
