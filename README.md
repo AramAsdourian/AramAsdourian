@@ -11,7 +11,9 @@
 <h2> Programming Projects:</h2>
 
 - <b>C++</b>
-  - [placeholder]()
+  - [Card dealer](https://github.com/AramAsdourian/DealingCards.git)
+  - [Baseball stat calculator](https://github.com/AramAsdourian/BaseballStats.git)
+  - [Dog kennel simulator](https://github.com/AramAsdourian/KennelSimulator.git)
     
 - <b>Python</b>
   - [Pokedex](https://github.com/AramAsdourian/Pokedex.git)
