@@ -2,9 +2,9 @@
 
   - <b>Penn state class of 2026</b>
   
-  - <b>experience with Python and C++</b>
+  - <b>experience with Python, SQL, C++, Java</b>
   
-  - <b>some time also spent with R and Processing</b>
+  - <b>some time also spent with C, R and Processing</b>
   
   - <b>currently taking class in SQL and PHP</b>
     
