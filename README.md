@@ -6,7 +6,6 @@
   
   - <b>some time also spent with C, R and Processing</b>
   
-  - <b>currently taking class in SQL and PHP</b>
     
 <h2> Programming Projects:</h2>
 
