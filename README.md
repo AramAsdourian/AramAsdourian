@@ -1,6 +1,6 @@
 <h1>Aram Asdourian</h1>
 
-  - <b>Penn state class of 2026</b>
+  - <b>Penn state class of 2027</b>
   
   - <b>experience with Python, SQL, C++, Java</b>
   
